@@ -8,3 +8,5 @@
 - [ ] Improve hardware packaging
   - [ ] Place circuitry on shield
   - [ ] Package all in case
+- [ ] Improve visual effects
+- [ ] Add input for controlling mode
